@@ -1,0 +1,39 @@
+!!dod=dod#
+	!!desc=1#	//something, e.g. filth
+		%s!#
+		You %s!#
+		I hate you, you %s!#
+	!!desc=2#	//something something, e.g. stupid orc
+		%s %s!#
+		You %s %s!#
+		%s looking %s!#
+		I hate you, you %s %s!#
+	!!desc=3#	//something something something, e.g. dumb smelly dung
+		%s %s %s!#
+		You %s %s %s!#
+		%s looking %s %s!#
+		I hate you, you %s %s %s!#
+	!!desc=4#	//Smell synonims
+		I'd rather %s a %s's %s than your %s!#
+	!!desc=5#	//Smell synonims
+		I'd rather %s a %s's %s than your %s, you %s %s!#
+	!!desc=6#	//Smell synonims
+		I'd rather %s %s than your %s!#
+	!!desc=7#	//Smell synonims
+		I'd rather %s %s than your %s, you %s %s!#
+	!!desc=8#	//Smell synonims
+		You are %s %s and you %s like %s!#
+	!!desc=9#	//Smell synonims
+		You are %s %s and you %s like %s %s!#
+	!!desc=10#	//Look to synonims
+		I'd rather %s a %s's %s than your %s!#
+	!!desc=11#	//Look to synonims
+		I'd rather %s a %s's %s than your %s, you %s %s!#
+	!!desc=12#	//Look to synonims
+		I'd rather %s %s than your %s!#
+	!!desc=13#	//Look to synonims
+		I'd rather %s %s than your %s, you %s %s!#
+	!!desc=14#	//Look synonims
+		You are %s %s and you %s like %s!#
+	!!desc=15#	//Look synonims
+		You are %s %s and you %s like %s %s!#

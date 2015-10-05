@@ -1,0 +1,58 @@
+!!dod=dod#
+	!!desc=1#
+		filthy#
+		nasty#
+		grimy#
+		soiled#
+		smelly#
+		rancid#
+		stinking#
+		putrid#
+		foul#
+		disgusting#
+		repulsive#
+		repugnant#
+		vile#
+		gruesome#
+		awful#
+		ugly#
+		hideous#
+		revolting#
+		dirty#
+		basic#
+		ignorant#
+		dim-witted#
+		dense#
+		dull#
+		dumb#
+		insignificant#
+		irrelevant#
+		paltry#
+		trivial#
+	!!desc=2#
+		pig#
+		swine#
+		brute#
+		loser#
+		filth#
+		slime#
+		dung#
+		maggot#
+		worm#
+		asshole#
+		bastard#
+		prick#
+		idiot#
+		jerk#
+		jackass#
+		dumbass#
+		tree humper#
+		dung sniffer#
+		dog#
+		troll#
+		goblin#
+		orc dung#
+		dog dung#
+		troll dung#
+		goblin dung#
+		arsehole#
